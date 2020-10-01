@@ -1,6 +1,6 @@
-# Vue
+# Vue:
 
-## Calendar App
+## Calendar App:
 
 1. Ensure you have `npm` installed.
 
@@ -10,7 +10,7 @@
 npm install
 ````
 
-3. Boot the app
+3. Boot the app:
 
 ````
 npm run dev
